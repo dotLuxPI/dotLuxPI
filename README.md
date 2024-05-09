@@ -1,8 +1,8 @@
 # Hi there, I'm Luca! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px" alt="">
 
-- Computer Science Student @UniMiB 📖
-- Consumer Electronic's Enthusiast 📱
-- Chess Player ♟️
+- 📖 Computer Science Student @UniMiB
+- 📱 Consumer Electronic's Enthusiast
+- ♟️ Chess Player
 
 <br />
 
