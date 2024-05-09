@@ -47,4 +47,4 @@
 
 <h2>Now Listening to</h2>
 
-<img align="left" width="25%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" /> <img align="left" alt="SpotifyListeningTo" width="50%" src="https://spotify-widget-topaz.vercel.app/api/now-playing/image/github-light">
+<img align="left" width="25%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" /><img align="left" alt="SpotifyListeningTo" width="50%" src="https://spotify-widget-topaz.vercel.app/api/now-playing/image/github-light">
