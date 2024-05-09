@@ -1,18 +1,20 @@
-# Hi there, I'm Luca! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px" alt="">
+<h1>Hi there, I'm Luca! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px" alt=""></h1>
 
-- Computer Science Student @UniMiB 📖
-- Consumer Electronic's Enthusiast 📱
-- Chess Player ♟️
+📖 Computer Science Student @UniMiB
+<br />
+📱 Consumer Electronic's Enthusiast
+<br />
+♟️ Chess Player
 
 <br />
 
-## My Activity
+<h2>My Activity</h2>
 
 <img align="center" src="https://myreadme.vercel.app/api/embed/dotLuxPI?panels=userstatistics,toprepositories,commitgraph" />
 
 <br />
 
-## Connect with me:
+<h2>Connect with me</h2>
 
 [<img align="left" alt="Website" width="32px" src="https://www.iconsdb.com/icons/preview/white/geography-xxl.png" />](https://lucaperego.dev)
 [<img align="left" alt="Twitter" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" />](https://twitter.com/Lux___17)
@@ -22,7 +24,7 @@
 <br />
 <br />
 
-## Languages and Tools:
+<h2>Language & Tools</h2>
 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
 <img align="left" alt="CSS3" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
@@ -36,6 +38,10 @@
 <br />
 <br />
 
-## Now Listening to:
+<h2>Now Listening to</h2>
 
+<<<<<<< Updated upstream
 <img align="left" alt="SpotifyListeningTo" width="75%" src="https://spotify-widget-topaz.vercel.app/api/now-playing/image/github-light">
+=======
+<img align="left" alt="SpotifyListeningTo" width="50%" src="https://spotify-widget-topaz.vercel.app/api/now-playing/image/github-light">
+>>>>>>> Stashed changes
