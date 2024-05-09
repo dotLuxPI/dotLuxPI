@@ -33,6 +33,7 @@
 <img align="left" alt="Node.js" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
 <img align="left" alt="PHP" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
 <img align="left" alt="MySQL" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
+<img align="left" alt="Java" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
 <img align="left" alt="VSCode" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
 
 <br />
