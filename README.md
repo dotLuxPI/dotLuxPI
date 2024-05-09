@@ -40,8 +40,4 @@
 
 <h2>Now Listening to</h2>
 
-<<<<<<< Updated upstream
-<img align="left" alt="SpotifyListeningTo" width="75%" src="https://spotify-widget-topaz.vercel.app/api/now-playing/image/github-light">
-=======
 <img align="left" alt="SpotifyListeningTo" width="50%" src="https://spotify-widget-topaz.vercel.app/api/now-playing/image/github-light">
->>>>>>> Stashed changes
