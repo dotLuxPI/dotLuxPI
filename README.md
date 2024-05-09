@@ -2,7 +2,7 @@
 
 📖 Computer Science Student @UniMiB
 <br />
-📱 Consumer Electronic's Enthusiast
+📱 Consumer Electronics' Enthusiast
 <br />
 ♟️ Chess Player
 
