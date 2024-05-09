@@ -38,4 +38,4 @@
 
 ## Now Listening to:
 
-✨ Coming Soon ✨
+<img align="left" alt="SpotifyListeningTo" width="75%" src="https://spotify-widget-topaz.vercel.app/api/now-playing/image/github-light">
