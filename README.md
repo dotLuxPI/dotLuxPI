@@ -10,8 +10,14 @@
 
 <h2>My Activity</h2>
 
-<img align="center" src="https://myreadme.vercel.app/api/embed/dotLuxPI?panels=userstatistics,toprepositories,commitgraph" />
+<a href="">
+  <img width="64.45%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotLuxPI&theme=github" />
+</a>
+<a href="">
+  <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotLuxPI&layout=donut"/>
+</a>
 
+<br />
 <br />
 
 <h2>Connect with me</h2>
@@ -26,7 +32,7 @@
 
 <h2>Language & Tools</h2>
 
-<img align="left" alt="HTML5" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+<img align="left" alt="HTML5" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"> 
 <img align="left" alt="CSS3" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 <img align="left" alt="TypeScript" width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
